@@ -21,6 +21,8 @@ For this project, I only needed to use HTML to fix the syntax errors in the code
 
 # Deployed Project
 
+https://alathrop2.github.io/Horiseon/
+
 # Screenshots
 
 ![Imgur](https://i.imgur.com/7jOnzWo.png)
