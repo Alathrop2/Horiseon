@@ -12,4 +12,4 @@
 
 # Screenshots
 
-[Imgur](https://i.imgur.com/7jOnzWo.png)
+![Imgur](https://i.imgur.com/7jOnzWo.png)
